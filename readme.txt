@@ -1,4 +1,4 @@
-=== Twitter Bootstrap Slider ===
+=== Custom Bootstrap Editor ===
 Contributors: bassjobsen
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SNYGRL7YNVYQW
 Tags: responsive, Twitter's Bootstrap, LESS, css
@@ -36,7 +36,7 @@ If you have suggestions for a new feature or improvement, feel free to contact u
 
 == Screenshots ==
 
-1. Twitter Bootstrap Slider
+1. Custom Bootstrap Editor
 
 == Changelog ==
 
