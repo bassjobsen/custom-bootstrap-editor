@@ -3,7 +3,7 @@
 Plugin Name: Custom Bootstrap Editor
 Plugin URI: https://github.com/bassjobsen/custom-bootstrap-editor
 Description: Add Twitter's Bootstrap CSS with LESS editor to your site.
-Version: 1.0
+Version: 1.0.1
 Author: Bass Jobsen
 Author URI: http://bassjobsen.weblogs.fm/
 License: GPLv2

@@ -4,13 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Custom Bootstrap Editor 1.0\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/custom-bootstrap-editor\n"
-"POT-Creation-Date: 2013-11-28 11:20:13+00:00\n"
+"POT-Creation-Date: 2013-11-30 11:39:29+00:00\n"
+"PO-Revision-Date: 2013-11-30 12:42+0100\n"
+"Last-Translator: Bass Jobsen <bass@w3masters.nl>\n"
+"Language-Team: \n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2013-11-28 12:20+0100\n"
-"Last-Translator: Bass Jobsen <bass@w3masters.nl>\n"
-"Language-Team: \n"
 
 #: custom-bootstrap-editor.php:182
 #: templates/settings.php:76
@@ -34,7 +35,7 @@ msgid "https://github.com/bassjobsen/custom-bootstrap-editor"
 msgstr ""
 
 #. Description of the plugin/theme
-msgid "Add a image slider to your pages based on Twitter's Bootstrap's Carousel component"
+msgid "Add Twitter's Bootstrap CSS with LESS editor to your site."
 msgstr ""
 
 #. Author of the plugin/theme
